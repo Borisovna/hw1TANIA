@@ -2,25 +2,25 @@
 $day = random_int(1, 8);
 switch ($day) {
     case 1:
-        echo "Сегодня понедельник";
+        echo "Это   рабочий   день";
         break;
     case 2:
-        echo "Сегодня вторник";
+        echo "Это   рабочий   день";
         break;
     case 3:
-        echo "Сегодня среда";
+        echo "Это   рабочий   день";
         break;
     case 4:
-        echo "Сегодня четверг";
+        echo "Это   рабочий   день";
         break;
     case 5:
-        echo "Сегодня пятница";
+        echo "Это   рабочий   день";
         break;
     case 6:
-        echo "Сегодня суббота";
+        echo "Это   выходной   день";
         break;
     case 7:
-        echo "Сегодня воскресенье";
+        echo "Это   выходной   день";
         break;
     default:
         echo "такого дня недели не бывает";
