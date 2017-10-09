@@ -15,7 +15,7 @@ while ($i !== 0) {
 }
 echo "<pre>";
 print_r($arr2);
-$str2 = implode(" ", $arr2);
+$str2 = implode("|", $arr2);
 
 echo "<br>" . $str2;
 
