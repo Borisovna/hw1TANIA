@@ -31,9 +31,9 @@ foreach ($opel as $key => $value) {
 // три одинаковых цикла -как то смешно
 
 
-echo "<pre>";
-print_r($car);
-echo "<hr>";
+//echo "<pre>";
+//print_r($car);
+//echo "<hr>";
 
 foreach ($car as $key => $value) {
     echo " CAR " . $key . "</br>" . $car[$key]['model'] . " " . $car[$key]['speed'] . " " . $car[$key]['doors'] . " " . $car[$key]['year'] . "<hr>";
