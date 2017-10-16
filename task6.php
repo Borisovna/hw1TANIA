@@ -14,7 +14,7 @@ $toyota = array(
 $opel = array(
     "model" => "Opel Corsa E",
     "speed" => "110",
-    "door's" => "3",
+    "doors" => "3",
     "year" => "2013",
 );
 $car = array();
