@@ -1,4 +1,5 @@
 <?php
+
 $day = random_int(1, 8);
 switch ($day) {
     case ($day<=5):
