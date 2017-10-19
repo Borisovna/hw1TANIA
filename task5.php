@@ -2,10 +2,7 @@
 
 $day = random_int(1, 10);
 
-switch ($a) {
-    case 1:
-        echo "Это   рабочий   день";
-        break;
+switch ($day) {
     case 1:
         echo "Это   рабочий   день";
         break;
